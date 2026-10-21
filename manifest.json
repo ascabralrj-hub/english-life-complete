@@ -1,12 +1,12 @@
 {
-  "name": "English Life • Curso Completo",
+  "name": "English Life 3.0 • Curso de Inglês",
   "short_name": "English Life",
-  "start_url": "./?v=complete-1",
+  "start_url": "./?v=3.0",
   "display": "standalone",
   "background_color": "#09111f",
   "theme_color": "#09111f",
   "lang": "pt-BR",
-  "description": "Curso completo de inglês A1-C2 com revisão inteligente, conversação e gamificação.",
+  "description": "Pacote instalável do English Life 3.0, baseado na versão completa anterior.",
   "icons": [
     {
       "src": "icon-192.svg",
